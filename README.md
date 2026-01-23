@@ -14,8 +14,6 @@
 
 + [**vless_universal.txt**](https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt) — полная версия подписки. Содержит все доступные подсети.
 
-+ [**vless_nolite.txt**](https://raw.githubusercontent.com/zieng2/wl/main/vless_nolite.txt) — используется исключительно для тестирования. Содержит все подсети, кроме проверенно рабочих при ограничениях мобильной связи.
-
 + [**vless.txt**](https://raw.githubusercontent.com/zieng2/wl/main/vless.txt) — устаревшая версия подписки. **Поддержка прекращена**.
 ## Рекомендованные клиенты
 
